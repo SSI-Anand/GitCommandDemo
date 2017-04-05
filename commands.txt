@@ -1,0 +1,7 @@
+Git Command :
+
+1- git init
+2- git status
+3-git add <file_name>
+4-git commit -m “<message to give>”
+5-git add ‘*.txt’  [for adding all .txt file]
